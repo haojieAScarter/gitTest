@@ -1,1 +1,2 @@
-This is my first git try 
+This is my first git try
+add once!
