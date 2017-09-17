@@ -1,6 +1,6 @@
+
 This is my first git try 
 
-one
-
+add once!
 
 head still stupid
